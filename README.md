@@ -13,6 +13,14 @@ I am an Informatics undergraduate at the University of Washington, focused on AI
 - Human-centered AI
 - AI-assisted software and workflow automation
 
+## Outreach & Public Communication
+
+**Xiao Wang Xuezhang - Education Account and Knowledge Base**
+
+Founder and content creator focused on undergraduate application experience and study-abroad life sharing. Grew the account to approximately 5,000 followers on WeChat Channels while communicating complex application and university-life topics to a broad student audience.
+
+[Visit xiaowangxuezhang.com/about](https://xiaowangxuezhang.com/about)
+
 ## Selected Work
 
 **Wordplay - Open-Source Educational Programming Language and IDE**
