@@ -4,14 +4,11 @@ I am an Informatics undergraduate at the University of Washington, focused on AI
 
 [View my CV website](https://wd041216-bit.github.io) · [Email](mailto:wd041216@uw.edu)
 
-## Research Interests
+## Technical Stack
 
-- AI systems
-- LLM agents
-- Benchmark and evaluation
-- Multimodal reasoning
-- Human-centered AI
-- AI-assisted software and workflow automation
+- **Programming:** Java, Python, full-stack web development, ERP/workflow systems
+- **Data:** R, tidyverse, ggplot2, data wrangling, visualization, statistical inference
+- **Math:** Multivariable calculus, linear algebra, statistical reasoning
 
 ## Outreach & Public Communication
 
@@ -48,12 +45,6 @@ https://yuchengmaterial.com/en
 SEO Department Intern
 
 Built an AI-assisted SEO automation workflow that improved team efficiency by approximately 50% and increased SEO organic traffic by approximately 10%.
-
-## Technical Stack
-
-- **Programming:** Java, Python, full-stack web development, ERP/workflow systems
-- **Data:** R, tidyverse, ggplot2, data wrangling, visualization, statistical inference
-- **Math:** Multivariable calculus, linear algebra, statistical reasoning
 
 ## Contact
 
