@@ -20,6 +20,12 @@ Founder and content creator focused on undergraduate application experience and 
 
 ## Selected Work
 
+**Multi-Foundation Intelligence Lab (MF-Lab)**
+
+Research Assistant, Apr 2026 - Present
+
+Working with MF-Lab on foundation-model systems and applied AI workflows, contributing to ongoing research, experimentation, evaluation, and implementation work.
+
 **Wordplay - Open-Source Educational Programming Language and IDE**
 
 Project Maintainer, University of Washington / Professor Amy J. Ko
