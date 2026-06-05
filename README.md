@@ -10,14 +10,6 @@ I am an Informatics undergraduate at the University of Washington, focused on AI
 - **Data:** R, tidyverse, ggplot2, data wrangling, visualization, statistical inference
 - **Math:** Multivariable calculus, linear algebra, statistical reasoning
 
-## Outreach & Public Communication
-
-**Xiao Wang Xuezhang - Education Account and Knowledge Base**
-
-Founder and content creator focused on undergraduate application experience and study-abroad life sharing. Grew the account to approximately 5,000 followers on WeChat Channels while communicating complex application and university-life topics to a broad student audience.
-
-[Visit xiaowangxuezhang.com/about](https://xiaowangxuezhang.com/about)
-
 ## Selected Work
 
 **Multi-Foundation Intelligence Lab (MF-Lab)**
