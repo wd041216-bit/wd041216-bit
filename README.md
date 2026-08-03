@@ -12,11 +12,11 @@ I am an Informatics undergraduate at the University of Washington, focused on AI
 
 ## Selected Work
 
-**Multi-Foundation Intelligence Lab (MF-Lab)**
+**Multimodal Intelligence Lab (MILab)**
 
 Research Assistant, Apr 2026 - Present
 
-Working with MF-Lab on foundation-model systems and applied AI workflows, contributing to ongoing research, experimentation, evaluation, and implementation work.
+Working with the [Multimodal Intelligence Lab (MILab)](https://depts.washington.edu/uwmilab/people) at the University of Washington on multimodal AI, embodied intelligence, evaluation, and deployable intelligent systems.
 
 **Wordplay - Open-Source Educational Programming Language and IDE**
 
