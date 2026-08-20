@@ -1,48 +1,49 @@
 # Hi, I'm Da Wei
 
-I am an Informatics undergraduate at the University of Washington, focused on AI systems, LLM agents, benchmark and evaluation, multimodal reasoning, human-centered AI, and AI-assisted software workflows.
+I am an Informatics undergraduate at the University of Washington (GPA 3.8/4.0, expected 2027) and an Undergraduate Research Assistant at the [Multimodal Intelligence Lab (MILab)](https://depts.washington.edu/uwmilab/people). I work on multimodal AI, embodied intelligence, LLM agents, speculative decoding, and AI systems.
 
 [View my CV website](https://wd041216-bit.github.io) · [Email](mailto:wd041216@uw.edu)
 
 ## Technical Stack
 
-- **Programming:** Java, Python, full-stack web development, ERP/workflow systems
-- **Data:** R, tidyverse, ggplot2, data wrangling, visualization, statistical inference
-- **Math:** Multivariable calculus, linear algebra, statistical reasoning
+- **Programming:** Python, Java
+- **AI & Systems:** Agent orchestration, LLM inference, multimodal AI, speculative decoding
+- **Engineering:** Web development, ERP workflows, SEO automation, data modeling
+- **Math:** Calculus, geometry and vectors, linear algebra, probability and statistics
 
 ## Selected Work
 
 **Multimodal Intelligence Lab (MILab)**
 
-Research Assistant, Apr 2026 - Present
+Undergraduate Research Assistant, Apr 2026 - Present
 
-Working with the [Multimodal Intelligence Lab (MILab)](https://depts.washington.edu/uwmilab/people) at the University of Washington on multimodal AI, embodied intelligence, evaluation, and deployable intelligent systems.
+Contributing to HA-VLN 3.0 (Human-Aware VLN) by building a low-cost, adaptive batch 3D motion-retargeting agent with Kimodo and Virtual Community, auditing 300 human-motion samples, and training/evaluating VLN models. Also investigating vision speculative decoding through compression-aware loss design and information-loss measurement.
 
 **Wordplay - Open-Source Educational Programming Language and IDE**
 
-Project Maintainer, University of Washington / Professor Amy J. Ko
+Project Maintainer, Jan 2026 - Present
 
-Contributing to an accessible educational programming language, IDE, and platform for interactive typography.
+Contributing to Professor Amy J. Ko's Wordplay project through implementation and ongoing maintenance, with a focus on accessibility, multilingual interactive typography, and learner experience.
 
-**Global Social Media Sentiment and Addiction Study**
+**Dongguan Yucheng New Material - Multilingual Portal and Cross-Border ERP**
 
-Group Leader
+Project Lead, Oct 2025 - Present
 
-Analyzed approximately 1,000 social media text entries with R and tidyverse, then studied correlations between screen-time indicators and negative sentiment across regions.
+Leading a Chinese-English-Vietnamese corporate portal and cross-border ERP for hundreds of users across China and Vietnam, with end-to-end traceability across production, inventory, quality, logistics, and delivery.
 
-**Yucheng New Material Company Portal and Custom ERP System**
+[Company website](https://yuchengmaterial.com/en)
 
-Developer and Maintainer
+**Shanghai APOBAI - SEO Automation**
 
-Built and maintain a multilingual company portal and custom ERP system for business operations.
+SEO Intern, Jan - Mar 2026
 
-https://yuchengmaterial.com/en
+Built AI-assisted SEO content and topic-discovery workflows that cut landing-page production time by 75%, blog production by about 50%, and contributed to 10% organic-traffic growth within 7 days.
 
-**Shanghai APOBAI - SEO Automation System**
+**"Xiao Wang Xuezhang" Education Media Channel**
 
-SEO Department Intern
+Founder & Content Creator, Jan 2026 - Present
 
-Built an AI-assisted SEO automation workflow that improved team efficiency by approximately 50% and increased SEO organic traffic by approximately 10%.
+Founded and operate an education channel on university applications and international-student life; grew the WeChat Channels account to about 5,000 followers.
 
 ## Contact
 
