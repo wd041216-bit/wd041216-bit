@@ -1,13 +1,13 @@
 # Hi, I'm Da Wei
 
-I am an Informatics undergraduate at the University of Washington (GPA 3.8/4.0, expected 2027) and an Undergraduate Research Assistant at the [Multimodal Intelligence Lab (MILab)](https://depts.washington.edu/uwmilab/people). I work on multimodal AI, embodied intelligence, LLM agents, speculative decoding, and AI systems.
+I am an Informatics undergraduate at the University of Washington (GPA 3.8/4.0, expected 2027) and an Undergraduate Research Assistant at the [Multimodal Intelligence Lab (MILab)](https://depts.washington.edu/uwmilab/people). I work on multimodal AI, embodied intelligence, LLM agents, speculative decoding, language world modeling, and AI systems.
 
 [View my CV website](https://wd041216-bit.github.io) · [Email](mailto:wd041216@uw.edu)
 
 ## Technical Stack
 
 - **Programming:** Python, Java
-- **AI & Systems:** Agent orchestration, LLM inference, multimodal AI, speculative decoding
+- **AI & Systems:** Agent orchestration, LLM inference, multimodal AI, speculative decoding, language world modeling
 - **Engineering:** Web development, ERP workflows, SEO automation, data modeling
 - **Math:** Calculus, geometry and vectors, linear algebra, probability and statistics
 
@@ -18,6 +18,12 @@ I am an Informatics undergraduate at the University of Washington (GPA 3.8/4.0, 
 Undergraduate Research Assistant, Apr 2026 - Present
 
 Contributing to HA-VLN 3.0 (Human-Aware VLN) by building a low-cost, adaptive batch 3D motion-retargeting agent with Kimodo and Virtual Community, auditing 300 human-motion samples, and training/evaluating VLN models. Also investigating vision speculative decoding through compression-aware loss design and information-loss measurement.
+
+**[MATH-LWM-AGENT | Mathematical Tool-Use Agent](https://github.com/wd041216-bit/MATH-LWM-AGENT)**
+
+Research Collaborator with [Ning Yang](http://ningyangcasia.cn) (CASIA), 2026 - Present
+
+Contributing to an inference-time language world model interface that predicts the concrete observation for each pending Python, SymPy, or verification call, binds it to the same executable action, and uses typed prediction-observation residuals to guide subsequent control. Built a four-condition matched evaluation over 400 IMO-AnswerBench problems with three repetitions; in the prespecified disabled-thinking comparison, maintained accuracy within a 1-percentage-point non-inferiority margin (77.75% vs. 76.25%) while reducing model calls per correct by 9.41%, tool steps per correct by 9.04%, and latency per correct by 8.92% (10.18% lower Joint Inference Cost per Correct). AAAI 2027 submission.
 
 **Wordplay - Open-Source Educational Programming Language and IDE**
 
