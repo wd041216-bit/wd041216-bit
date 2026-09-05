@@ -1,93 +1,106 @@
 # Da Wei (韦达)
 
-**Multimodal AI Research Assistant · AI Agents & Systems Engineering**
+Undergraduate AI Researcher | World Models & VLN
 
-Seattle, WA · [wd041216@uw.edu](mailto:wd041216@uw.edu) · [wd041216-bit.github.io](https://wd041216-bit.github.io)
+Seattle, WA · [Email](mailto:wd041216@uw.edu) · [Personal website](https://wd041216-bit.github.io) · [Download CV (PDF)](https://wd041216-bit.github.io/Da_Wei_English_Research_CV.pdf)
 
-Undergraduate Research Assistant at the [UW Multimodal Intelligence Lab (MILab)](https://depts.washington.edu/uwmilab/people), working on human-aware vision-language navigation, multimodal speculative decoding, and efficient mathematical tool agents. B.S. in Informatics, University of Washington (GPA 3.8/4.0, expected 2027).
-
----
-
-## Research Interests
-
-`Multimodal AI` `Embodied AI` `LLM Agents` `Speculative Decoding` `AI Systems`
-
----
-
-## Research Experience
-
-### UW Multimodal Intelligence Lab (MILab) — Undergraduate Research Assistant
-*Apr 2026 – Present · Seattle, WA*
-
-**HA-VLN 3.0 | Human-Aware Vision-Language Navigation** *(prior work: NeurIPS 2024 Spotlight)*
-- Built a low-cost, adaptive batch 3D motion-retargeting agent with Kimodo and Virtual Community, accelerating environment and motion-data generation for embodied AI.
-- Audited and repaired 300 human-motion samples, standardizing format and quality criteria.
-- Train and evaluate VLN models, maintain experiment logs, and produce navigation demos.
-
-**Vision Speculative Decoding** *(ongoing research)*
-- Surveyed multimodal speculative-decoding and sampling methods; formulated a composite loss for compression quality and draft-target behavior.
-- Proposed autoencoder-based direct supervision for the visual adapter; the method optimizes compression efficiency and measures information loss.
-
-### Institute of Automation, Chinese Academy of Sciences (Ning Yang) — Undergraduate Research Collaborator
-*Apr 2026 – Present · Remote / Beijing*
-
-**MATH-LWM-AGENT | Efficient Mathematical Tool Agent** *(submitted to AAAI 2027)*
-- Co-developed a training-free mathematical tool agent that predicts the expected observation before each tool call, then uses the prediction–observation residual to steer subsequent reasoning and tool use.
-- Implemented the agent runtime, executable Python / SymPy verification loop, and result-audit workflows across multiple benchmarks.
-- With thinking disabled, improved HMMT and IMO-AnswerBench by 52.13 and 35.85 percentage points and IMO-ProofBench by 1.22/7 over the same base model; residual control reduced model calls per correct by 9.41% and joint cost by 10.18%.
-
----
-
-## Industry & Open Source
-
-### Dongguan Yucheng New Material — Project Lead, Website & ERP
-*Oct 2025 – Present · Dongguan & Vietnam*
-
-- Built and maintain a Chinese-English-Vietnamese corporate portal as a unified cross-regional brand and business entry point.
-- Designed a custom ERP architecture for hundreds of users across cross-border manufacturing and export workflows.
-- Connected China export operations with the Vietnam factory through a unified data and workflow layer.
-- Enabled end-to-end traceability across raw materials, production, inventory, quality control, logistics, and final delivery.
-- Led requirements analysis, data modeling, and workflow design, with emphasis on interface usability and long-term maintainability.
-
-### Wordplay — Project Maintainer
-*Jan 2026 – Present · Remote / Seattle*
-
-- Contribute to Professor Amy J. Ko's open-source educational programming language and IDE.
-- Analyze accessibility and multilingual interactive typography, with emphasis on product usability and the learner experience.
-- Translate product ideas into maintainable implementation tasks and learner-experience enhancements.
-
-### Shanghai APOBAI — SEO Intern
-*Jan – Mar 2026 · Shanghai, China*
-
-- Systematically applied keyword research, search-intent analysis, and page-structure principles to produce SEO landing pages and blogs independently.
-- Designed a trending-keyword scoring algorithm and a specialized AI-agent workflow for topic discovery, content generation, and automated page refresh.
-- Cut landing-page production time by 75%, blog production time by about 50%, and contributed to 10% organic-traffic growth within 7 days.
-
-### "Xiao Wang Xuezhang" — Founder & Content Creator
-*Jan 2026 – Present · China / Online*
-
-- Founded and operate an education channel on university applications and international-student life.
-- Grew the WeChat Channels account to about 5,000 followers and iterated topics based on audience feedback.
-- Turn complex application and college-life topics into clear student content, building experience in public communication and educational design.
-
----
-
-## Technical Skills
-
-- **Programming:** Python, Java
-- **AI / ML:** Agent orchestration, LLM inference, multimodal AI, speculative decoding
-- **Engineering:** Web development, ERP workflows, SEO automation, data modeling
-- **Math:** Calculus, geometry and vectors, linear algebra, probability and statistics
-
----
+I'm an Informatics undergraduate at the University of Washington, working on embodied AI, world models, and vision-and-language navigation. My research includes human-aware navigation, multimodal speculative decoding, mathematical tool agents, and robot manipulation.
 
 ## Education
 
-**University of Washington, Seattle** — B.S. in Informatics
-GPA 3.8/4.0 · Expected 2027
+- **University of Washington, Seattle** — B.S. in Informatics · GPA: 3.73/4.0 · Expected graduation: 2027
+- **The Chinese University of Hong Kong** — Exchange student · Fall 2026
 
----
+## Research experience
+
+### Multimodal Intelligence Lab, University of Washington
+
+Undergraduate Research Assistant · PI: Zhi-Qi Cheng<br>
+Apr 2026–Present · Seattle, WA · [Lab](https://depts.washington.edu/uwmilab/people)
+
+**Human-Aware Vision-Language Navigation**<br>
+Ongoing · Planned 2026 submission · Expected second author
+
+- Built a low-cost batch 3D motion-retargeting agent with Kimodo and Virtual Community for new VLN scenes.
+- Automated avatar retargeting and motion-data preparation, including auditing and repairing 300 human-motion samples.
+- Train and evaluate VLN models with DAgger-based imitation learning; maintain experiment logs and navigation demos.
+
+**Multimodal Speculative Decoding Improvement**<br>
+Ongoing · Planned 2026 submission · Expected co-first author
+
+- Surveyed multimodal speculative-decoding and sampling methods to identify limitations in the ViSpec baseline.
+- Formulated an objective linking visual-compression quality with draft-target model behavior.
+- Proposed autoencoder-based supervision for the visual adapter to measure and reduce information loss.
+
+### Institute of Automation, Chinese Academy of Sciences
+
+Undergraduate Research Collaborator · Advisor: Ning Yang<br>
+Feb 2026–Present · Remote
+
+**MATH-LWM-AGENT: Efficient Mathematical Tool Agent**<br>
+First author · Submitted to AAAI 2027
+
+- Conceived and led a training-free mathematical agent that predicts tool outcomes before execution.
+- Designed a residual controller that turns prediction-execution mismatch into state for subsequent reasoning; implemented the runtime with Python, SymPy, and verification tools.
+- Led experiment design, ablations, cost accounting, evidence audits, and manuscript preparation.
+- With thinking disabled, improved HMMT by 52.13 percentage points. Improved IMO-AnswerBench by 35.85 percentage points and IMO-ProofBench by 1.22/7.
+- Residual control reduced model calls per correct answer by 9.41% and joint inference cost by 10.18%.
+
+### NUS LinS Lab & RoboScience Lab
+
+Research Assistant · PI: Lin Shao<br>
+Aug 2026–Present · Shenzhen, China
+
+**WAM RL**<br>
+Ongoing · Planned 2026 submission · Expected third author
+
+- Lead xArm and xHand data collection, cleaning, and organization for robot-manipulation training.
+- Lead real-robot deployment on xArm, xHand, and Franka platforms for WAM experiments.
+- Participate in real-robot SFT and RL training for WAM, supporting iterative data-to-deployment cycles.
+
+## Open source & leadership
+
+### [Wordplay](https://github.com/wd041216-bit/wordplay)
+
+Open-Source Project Maintainer<br>
+Dec 2025–Jun 2026 · Seattle, WA
+
+- Contributed code to and maintained Amy J. Ko's open-source educational programming language and IDE.
+- Reviewed accessibility and multilingual typography in learner-facing interactions; proposed improvements to the editor and learning workflow.
+- Turned findings into scoped implementation tasks and maintainable code changes.
+
+### "Xiao Wang Xuezhang" education media channel
+
+Founder & Content Creator<br>
+Jan 2026–Present · China / Online
+
+- Founded a channel about undergraduate applications and international-student life; grew its WeChat Channels audience to approximately 5,000 followers.
+- Explain application and university-life topics for students and share firsthand experiences from research-lab work.
+
+## Industry experience
+
+### Dongguan Yucheng New Material Co., Ltd.
+
+Project Lead<br>
+Sep 2025–Jun 2026 · Dongguan, China
+
+**[Multilingual corporate website](https://yuchengmaterial.com/en)**
+
+- Built a Chinese-English-Vietnamese website and maintain it as an entry point for overseas clients.
+- Centralized product, sustainability, production-capacity, and inquiry information; designed the page hierarchy and navigation for product discovery.
+
+**ERP management prototype** · China operations · 100+ users
+
+- Built and iteratively deployed an ERP prototype used by 100+ employees across the company's China operations.
+- Digitized the order-to-reconciliation flow across sales, procurement, quality inspection, warehouse dispatch, and finance.
+- Standardized workflows and SOPs with clear ownership and handoffs, then used live operations to identify management gaps and refine controls.
+
+## Skills
+
+- **AI & machine learning:** Machine learning, LLM/VLM inference, specialized AI-agent design for research workflows
+- **Programming & tools:** Python, Java, R, LaTeX
+- **Mathematics & statistics:** Calculus, linear algebra, vector geometry, probability, statistics
 
 ## Additional
 
-Scuba diving, skiing, surfing · Valid driver's license
+Scuba diving, surfing, skiing · Valid driver's license
