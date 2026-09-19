@@ -19,14 +19,14 @@ Undergraduate Research Assistant · PI: Zhi-Qi Cheng<br>
 Apr 2026–Present · Seattle, WA · [Lab](https://depts.washington.edu/uwmilab/people)
 
 **Human-Aware Vision-Language Navigation**<br>
-Ongoing · Planned 2026 submission · Expected second author
+Ongoing · Planned 2026 submission 
 
 - Built a low-cost batch 3D motion-retargeting agent with Kimodo and Virtual Community for new VLN scenes.
 - Automated avatar retargeting and motion-data preparation, including auditing and repairing 300 human-motion samples.
 - Train and evaluate VLN models with DAgger-based imitation learning; maintain experiment logs and navigation demos.
 
 **Multimodal Speculative Decoding Improvement**<br>
-Ongoing · Planned 2026 submission · Expected co-first author
+Ongoing · Planned 2026 submission 
 
 - Surveyed multimodal speculative-decoding and sampling methods to identify limitations in the ViSpec baseline.
 - Formulated an objective linking visual-compression quality with draft-target model behavior.
@@ -52,7 +52,7 @@ Research Assistant · PI: Lin Shao<br>
 Aug 2026–Present · Shenzhen, China
 
 **WAM RL**<br>
-Ongoing · Planned 2026 submission · Expected third author
+Ongoing · Planned 2026 submission 
 
 - Lead xArm and xHand data collection, cleaning, and organization for robot-manipulation training.
 - Lead real-robot deployment on xArm, xHand, and Franka platforms for WAM experiments.
